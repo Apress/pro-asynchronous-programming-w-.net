@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<control>
+  <dowjones>
+    <from>1952-10-1</from>
+    <to>1978-10-1</to>
+    <volume>30000000</volume>
+  </dowjones>
+  <ftse>
+    <from>1952-10-1</from>
+    <to>1990-10-1</to>
+    <volume>300000</volume>
+  </ftse>
+</control>

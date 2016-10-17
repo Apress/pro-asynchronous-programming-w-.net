@@ -1,0 +1,6 @@
+D:\temp\BookCodeExport\Chapter13\ParallelStacks\bin\Debug\ParallelStacks.exe.config
+D:\temp\BookCodeExport\Chapter13\ParallelStacks\bin\Debug\ParallelStacks.exe
+D:\temp\BookCodeExport\Chapter13\ParallelStacks\bin\Debug\ParallelStacks.pdb
+D:\temp\BookCodeExport\Chapter13\ParallelStacks\obj\Debug\ParallelStacks.csprojResolveAssemblyReference.cache
+D:\temp\BookCodeExport\Chapter13\ParallelStacks\obj\Debug\ParallelStacks.exe
+D:\temp\BookCodeExport\Chapter13\ParallelStacks\obj\Debug\ParallelStacks.pdb

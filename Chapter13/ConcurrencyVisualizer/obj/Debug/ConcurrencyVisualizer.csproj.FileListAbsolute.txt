@@ -1,0 +1,6 @@
+D:\temp\BookCodeExport\Chapter13\ConcurrencyVisualizer\bin\Debug\ConcurrencyVisualizer.exe.config
+D:\temp\BookCodeExport\Chapter13\ConcurrencyVisualizer\bin\Debug\ConcurrencyVisualizer.exe
+D:\temp\BookCodeExport\Chapter13\ConcurrencyVisualizer\bin\Debug\ConcurrencyVisualizer.pdb
+D:\temp\BookCodeExport\Chapter13\ConcurrencyVisualizer\obj\Debug\ConcurrencyVisualizer.csprojResolveAssemblyReference.cache
+D:\temp\BookCodeExport\Chapter13\ConcurrencyVisualizer\obj\Debug\ConcurrencyVisualizer.exe
+D:\temp\BookCodeExport\Chapter13\ConcurrencyVisualizer\obj\Debug\ConcurrencyVisualizer.pdb

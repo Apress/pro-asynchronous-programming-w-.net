@@ -1,0 +1,14 @@
+﻿body {
+    padding-top: 80px;
+    margin-bottom: 80px;
+}
+
+table.monospace {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    text-transform: capitalize;
+}
+
+.second-nav {
+    padding-top: 40px;
+}

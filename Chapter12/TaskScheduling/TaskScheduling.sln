@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSKSchedulers", "RSKSchedulers\RSKSchedulers.csproj", "{DF694525-CEA1-47C9-8078-90F13D95B398}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSKSchedulers.Test", "RSKSchedulers.Test\RSKSchedulers.Test.csproj", "{06D95DBD-1711-4938-9145-5567C36A5DDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchedulerTest", "SchedulerTest\SchedulerTest.csproj", "{1DC8628E-06A5-435E-969E-54FB546C9299}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF694525-CEA1-47C9-8078-90F13D95B398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF694525-CEA1-47C9-8078-90F13D95B398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF694525-CEA1-47C9-8078-90F13D95B398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF694525-CEA1-47C9-8078-90F13D95B398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06D95DBD-1711-4938-9145-5567C36A5DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06D95DBD-1711-4938-9145-5567C36A5DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06D95DBD-1711-4938-9145-5567C36A5DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06D95DBD-1711-4938-9145-5567C36A5DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DC8628E-06A5-435E-969E-54FB546C9299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC8628E-06A5-435E-969E-54FB546C9299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC8628E-06A5-435E-969E-54FB546C9299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC8628E-06A5-435E-969E-54FB546C9299}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

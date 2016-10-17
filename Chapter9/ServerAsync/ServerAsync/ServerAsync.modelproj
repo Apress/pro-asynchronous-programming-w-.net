@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{d4a75546-d449-45ac-a6ca-e1103338268f}</ProjectGuid>
+    <ArchitectureToolsVersion>2.0.0.0</ArchitectureToolsVersion>
+    <Name>ServerAsync</Name>
+    <RootNamespace>ServerAsync</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(VSToolsPath)\ArchitectureTools\Microsoft.VisualStudio.TeamArchitect.ModelingProject.targets" Condition="'$(VSToolsPath)' != ''" />
+  <ItemGroup>
+    <Content Include="CompletionPortIO.sequencediagram">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="CompletionPortIO.sequencediagram.layout">
+      <SubType>Content</SubType>
+      <DependentUpon>CompletionPortIO.sequencediagram</DependentUpon>
+    </Content>
+    <Content Include="OverlappedIO.sequencediagram">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="OverlappedIO.sequencediagram.layout">
+      <SubType>Content</SubType>
+      <DependentUpon>OverlappedIO.sequencediagram</DependentUpon>
+    </Content>
+    <Content Include="SequentialIO.sequencediagram">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="SequentialIO.sequencediagram.layout">
+      <SubType>Content</SubType>
+      <DependentUpon>SequentialIO.sequencediagram</DependentUpon>
+    </Content>
+    <Folder Include="ModelDefinition\" />
+    <Content Include="ModelDefinition\ServerAsync.uml">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+</Project>

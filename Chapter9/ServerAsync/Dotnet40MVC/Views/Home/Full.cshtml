@@ -1,0 +1,26 @@
+﻿@model Dotnet40MVC.Models.FullViewModel
+
+@{
+    ViewBag.Title = "Full";
+}
+
+<h2>Authors</h2>
+<ul>
+    @foreach (Dotnet40MVC.Models.Author author in Model.Authors)
+    {
+        <li>
+            <span>@author.FirstName</span>
+            <span>@author.LastName</span>
+        </li>
+    }
+</ul>
+
+<h2>Titles</h2>
+<ul>
+    @foreach (Dotnet40MVC.Models.Title title in Model.Titles)
+    {
+        <li>
+            <span>@title.Name</span>
+        </li>
+    }
+</ul>

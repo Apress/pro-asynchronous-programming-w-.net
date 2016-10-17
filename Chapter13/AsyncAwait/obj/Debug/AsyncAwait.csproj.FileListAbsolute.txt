@@ -1,0 +1,6 @@
+D:\temp\BookCodeExport\Chapter13\AsyncAwait\bin\Debug\AsyncAwait.exe.config
+D:\temp\BookCodeExport\Chapter13\AsyncAwait\bin\Debug\AsyncAwait.exe
+D:\temp\BookCodeExport\Chapter13\AsyncAwait\bin\Debug\AsyncAwait.pdb
+D:\temp\BookCodeExport\Chapter13\AsyncAwait\obj\Debug\AsyncAwait.csprojResolveAssemblyReference.cache
+D:\temp\BookCodeExport\Chapter13\AsyncAwait\obj\Debug\AsyncAwait.exe
+D:\temp\BookCodeExport\Chapter13\AsyncAwait\obj\Debug\AsyncAwait.pdb

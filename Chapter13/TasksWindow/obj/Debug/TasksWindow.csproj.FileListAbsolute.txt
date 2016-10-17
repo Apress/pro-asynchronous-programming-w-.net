@@ -1,0 +1,6 @@
+D:\temp\BookCodeExport\Chapter13\TasksWindow\bin\Debug\TasksWindow.exe.config
+D:\temp\BookCodeExport\Chapter13\TasksWindow\bin\Debug\TasksWindow.exe
+D:\temp\BookCodeExport\Chapter13\TasksWindow\bin\Debug\TasksWindow.pdb
+D:\temp\BookCodeExport\Chapter13\TasksWindow\obj\Debug\TasksWindow.csprojResolveAssemblyReference.cache
+D:\temp\BookCodeExport\Chapter13\TasksWindow\obj\Debug\TasksWindow.exe
+D:\temp\BookCodeExport\Chapter13\TasksWindow\obj\Debug\TasksWindow.pdb

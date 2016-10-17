@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Authors</h2>
+<ul>
+    @foreach (Dotnet45MVC.Models.Author author in Model)
+    {
+        <li>
+            <span>@author.FirstName</span>
+            <span>@author.LastName</span>
+        </li>
+    }
+</ul>

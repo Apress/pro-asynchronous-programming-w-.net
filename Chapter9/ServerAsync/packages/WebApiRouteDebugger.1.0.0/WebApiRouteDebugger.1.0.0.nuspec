@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>WebApiRouteDebugger</id>
+    <version>1.0.0</version>
+    <title>ASP.NET WebAPI Route Debugger</title>
+    <authors>Troy Dai</authors>
+    <owners>Troy Dai</owners>
+    <licenseUrl>http://aspnet.codeplex.com/license</licenseUrl>
+    <projectUrl>http://aspnet.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>ASP.NET Web API Route Debugger</description>
+    <tags>AspNet AspNetWebApi RouteDebugger WebApi</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.5">
+        <dependency id="jquery" version="1.8.3" />
+        <dependency id="knockoutjs" version="2.2.1" />
+        <dependency id="Twitter.Bootstrap" version="2.2.2" />
+        <dependency id="Microsoft.AspNet.Web.Optimization" version="1.0.0" />
+        <dependency id="Microsoft.AspNet.Mvc" version="4.0.20710.0" />
+        <dependency id="Microsoft.AspNet.WebApi.WebHost" version="4.0.20710.0" />
+        <dependency id="Microsoft.AspNet.Razor" version="2.0.20715.0" />
+      </group>
+    </dependencies>
+    <references />
+  </metadata>
+</package>

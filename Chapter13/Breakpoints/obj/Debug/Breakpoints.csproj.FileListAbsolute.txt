@@ -1,0 +1,6 @@
+D:\temp\BookCodeExport\Chapter13\Breakpoints\bin\Debug\Breakpoints.exe.config
+D:\temp\BookCodeExport\Chapter13\Breakpoints\bin\Debug\Breakpoints.exe
+D:\temp\BookCodeExport\Chapter13\Breakpoints\bin\Debug\Breakpoints.pdb
+D:\temp\BookCodeExport\Chapter13\Breakpoints\obj\Debug\Breakpoints.csprojResolveAssemblyReference.cache
+D:\temp\BookCodeExport\Chapter13\Breakpoints\obj\Debug\Breakpoints.exe
+D:\temp\BookCodeExport\Chapter13\Breakpoints\obj\Debug\Breakpoints.pdb

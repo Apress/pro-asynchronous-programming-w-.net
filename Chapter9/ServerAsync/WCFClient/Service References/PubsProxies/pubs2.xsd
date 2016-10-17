@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfAuthor">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Author" nillable="true" type="Author" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfAuthor" nillable="true" type="ArrayOfAuthor" />
+  <xs:complexType name="Author">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="FirstName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="LastName" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Author" nillable="true" type="Author" />
+  <xs:complexType name="FullDetails">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Authors" nillable="true" type="ArrayOfAuthor" />
+      <xs:element minOccurs="0" name="Titles" nillable="true" type="ArrayOfTitle" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="FullDetails" nillable="true" type="FullDetails" />
+  <xs:complexType name="ArrayOfTitle">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Title" nillable="true" type="Title" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfTitle" nillable="true" type="ArrayOfTitle" />
+  <xs:complexType name="Title">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Price" nillable="true" type="xs:decimal" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Title" nillable="true" type="Title" />
+</xs:schema>

@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReturningDataFromATask", "ReturningDataFromATask\ReturningDataFromATask.csproj", "{965ACF91-B8BC-4F02-9778-85DCD8F0A60B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOBasedTasks", "IOBasedTasks\IOBasedTasks.csproj", "{5E1E9A6C-E84E-4918-A634-0B6519EF0577}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlowWebServer", "SlowWebServer\SlowWebServer.csproj", "{E1B3F2EC-8CE6-4AB3-A5DD-CB135A5C0277}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorHandlng", "ErrorHandlng\ErrorHandlng.csproj", "{5C01A99E-72C3-4096-86CB-14DD8113D933}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousAPIs", "AsynchronousAPIs\AsynchronousAPIs.csproj", "{D51F82A7-4AA4-4C70-A5D9-8238CF992EAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskRelationships", "TaskRelationships\TaskRelationships.csproj", "{A3C10C2E-3430-46C0-950A-A6CC8A04F2DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{965ACF91-B8BC-4F02-9778-85DCD8F0A60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{965ACF91-B8BC-4F02-9778-85DCD8F0A60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{965ACF91-B8BC-4F02-9778-85DCD8F0A60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{965ACF91-B8BC-4F02-9778-85DCD8F0A60B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E1E9A6C-E84E-4918-A634-0B6519EF0577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E1E9A6C-E84E-4918-A634-0B6519EF0577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E1E9A6C-E84E-4918-A634-0B6519EF0577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E1E9A6C-E84E-4918-A634-0B6519EF0577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1B3F2EC-8CE6-4AB3-A5DD-CB135A5C0277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1B3F2EC-8CE6-4AB3-A5DD-CB135A5C0277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1B3F2EC-8CE6-4AB3-A5DD-CB135A5C0277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1B3F2EC-8CE6-4AB3-A5DD-CB135A5C0277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C01A99E-72C3-4096-86CB-14DD8113D933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C01A99E-72C3-4096-86CB-14DD8113D933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C01A99E-72C3-4096-86CB-14DD8113D933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C01A99E-72C3-4096-86CB-14DD8113D933}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D51F82A7-4AA4-4C70-A5D9-8238CF992EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D51F82A7-4AA4-4C70-A5D9-8238CF992EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D51F82A7-4AA4-4C70-A5D9-8238CF992EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D51F82A7-4AA4-4C70-A5D9-8238CF992EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3C10C2E-3430-46C0-950A-A6CC8A04F2DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C10C2E-3430-46C0-950A-A6CC8A04F2DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C10C2E-3430-46C0-950A-A6CC8A04F2DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C10C2E-3430-46C0-950A-A6CC8A04F2DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
